@@ -12,3 +12,7 @@ This file Contains a detail Information about terraform which includes fetaures 
 2.Best Practices for Terraform
 
 This file contains Information about Terraform Execution Structure ,code Structure for Design and Implementation standred way.
+
+3. Uses of IAC Vsphere 
+
+This file contains uses of Vsphere in terraform perspective

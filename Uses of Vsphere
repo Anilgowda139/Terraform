@@ -1,5 +1,3 @@
-
-
 VMware vSphere is a widely used virtualization platform that enables organizations to run multiple virtual machines on a single physical server. Here are some of the uses of vSphere
 
 1) Provisioning virtual machines (VMs): With vSphere provider in Terraform, you can define the configuration of VMs in code and use it to create new VMs in vSphere.
